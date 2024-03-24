@@ -1,0 +1,3 @@
+I have deployed this site on azure app services
+
+sona-ultima.azurewebsites.net
